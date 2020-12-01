@@ -1,8 +1,8 @@
 function restaMultiplicacion() {
-    const valor1 = 5;
-    const valor2 = 4;
-    const resta = valor1 - valor2;
-    const multiplicacion = valor1 * valor2;
-    console.log("El resultado de la resta es: " + resta + " y el resultado de la multiplicación es: " + multiplicacion);
-    document.getElementById("ejercicio2").innerHTML = ("El resultado de la resta es: " + resta + " y el resultado de la multiplicación es: " + multiplicacion);
+    const VALOR1 = 5;
+    const VALOR2 = 4;
+    const RESTA = VALOR1 - VALOR2;
+    const MULTIPLICACION = VALOR1 * VALOR2;
+    console.log("El resultado de la resta es: " + RESTA + " y el resultado de la multiplicación es: " + MULTIPLICACION);
+    document.getElementById("ejercicio2").innerHTML = ("El resultado de la resta es: " + RESTA + " y el resultado de la multiplicación es: " + MULTIPLICACION);
 }
