@@ -1,4 +1,4 @@
-function resta() {
+function ejerResta() {
     const NUM1 = 8;
     const NUM2 = 5;
     const OPERACION = NUM1 - NUM2;

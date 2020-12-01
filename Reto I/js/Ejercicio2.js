@@ -1,4 +1,4 @@
-function restaMultiplicacion() {
+function ejerMultRest() {
     const VALOR1 = 5;
     const VALOR2 = 4;
     const RESTA = VALOR1 - VALOR2;

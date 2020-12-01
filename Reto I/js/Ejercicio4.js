@@ -1,4 +1,4 @@
-function meses() {
+function ejerMeses() {
     const MIN = 1;
     const MAX = 12;
     let mes = Math.floor((Math.random() * (MAX - MIN + 1)) + MIN);

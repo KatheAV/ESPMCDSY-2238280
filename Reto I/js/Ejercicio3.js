@@ -1,4 +1,4 @@
-function Numaleatorio() {
+function ejerRestMult() {
 const MIN= 0;
 const MAX= 10;
 let num1 = 7;
